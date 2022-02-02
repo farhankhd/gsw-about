@@ -40,27 +40,6 @@
 
 <br><br><br>
 
-<div class="section">
-    <a id="conference-button" href="http://gsw.mit.edu/2020/">Visit the 2020 Conference Website</a>
-    <p style="text-align:center"> Check out the past year's conference!</p>
-    <br />
-</div>
-
-<br />
-
-
-
-
-<div class="section">
-    <div class="section-header">Join our team</div>
-    <div>
-        We're an MIT based graduate student group, and are in the process of building the 2022 website.<br><br>
-        <br><br>
-        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
-        <br><br>
-    </div>
-</div>
-
 
 <div class="section">
     <div class="section-header">20 Years Strong</div>
@@ -70,6 +49,23 @@
 </div>
 
 <br />
+<div class="section">
+    <a id="conference-button" href="http://gsw.mit.edu/2020/">Visit the 2020 Conference Website</a>
+    <p style="text-align:center"> Check out the past year's conference!</p>
+    <br />
+</div>
+
+<br />
+
+
+<div class="section">
+    <div class="section-header">Join our team</div>
+    <div>
+        We're an MIT based graduate student group, and are in the process of building the 2022 website.<br><br>
+        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
+        <br><br>
+    </div>
+</div>
 
 
 <br />
