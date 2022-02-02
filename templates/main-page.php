@@ -38,11 +38,11 @@
 */
 ?>
 
-<br><br><br>
+<br><br>
 
 
 <div class="section">
-    <div class="section-header">20 Years Strong</div>
+    <div class="section-header">23 Years Strong</div>
     <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
     <p>MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).</p>
     <p>Since 1998, our non-profit, student-run organization has held 23 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2022.</p>
@@ -54,19 +54,6 @@
     <p style="text-align:center"> Check out the past year's conference!</p>
     <br />
 </div>
-
-<br />
-
-
-<div class="section">
-    <div class="section-header">Join our team</div>
-    <div>
-        We're an MIT based graduate student group, and are in the process of building the 2022 website.<br><br>
-        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
-        <br><br>
-    </div>
-</div>
-
 
 <br />
 <div class="section">
@@ -82,6 +69,16 @@
       <br />
 </div>
 <br>
+
+
+<div class="section">
+    <div class="section-header">Join our team</div>
+    <div>
+        We're an MIT based graduate student group, and are in the process of building the 2022 website.<br><br>
+        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
+        <br><br>
+    </div>
+</div>
 
 
 <div class="section">
