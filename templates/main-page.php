@@ -99,7 +99,6 @@
 <div class="section">
     <div class="section-header">Join our team</div>
     <div>
-        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
-        <br>
+        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a>
     </div>
 </div>
