@@ -1,11 +1,7 @@
 <?php
 
-header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
-header("Cache-Control: post-check=0, pre-check=0", false);
-header("Pragma: no-cache");
-
     // Increase this version every time you change the style.css file to bust cached css
-    $cssVersion = "1.0.10";
+    $cssVersion = "1.0.9";
 ?>
 
 
