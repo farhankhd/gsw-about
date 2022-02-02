@@ -28,8 +28,6 @@ include('templates/nav-bar.php');
         <a href="img/Copy of Hi-Res World Map 2021.png" title="Click to open larger version of the map">
           <img src="img/Copy of Hi-Res World Map 2021.png" class="img-responsive full-width" alt="Map of countries" />
         </a>
-      </p>
-      <p class="text-center">(Click on the map to expand it.)</p>
       <br />
 
       
@@ -39,13 +37,13 @@ include('templates/nav-bar.php');
           <div class="col-md-4 history-item">
             <a title='MIT GSW 2020' href="http://gsw.mit.edu/2020">
               <img src="img/past-websites/2020-Grenoble.jpeg" class="img-responsive full-width" />
-              <div><span class="history-place">Grenoble, France</span><br><span class="history-year">GSW 2018</span></div>
+              <div><span class="history-place">Grenoble, France</span><br><span class="history-year">GSW 2020</span></div>
             </a>
           </div>
           <div class="col-md-4 history-item">
             <a title='MIT GSW 2019' href="http://gsw.mit.edu/2019">
               <img src="img/past-websites/2019-bogata-image.jpeg" class="img-responsive full-width" />
-              <div><span class="history-place">Bogotá, Colombia</span><br><span class="history-year">GSW 2018</span></div>
+              <div><span class="history-place">Bogotá, Colombia</span><br><span class="history-year">GSW 2019</span></div>
             </a>
           </div>
           <div class="col-md-4 history-item">
