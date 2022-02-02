@@ -61,8 +61,8 @@
       <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
 
       <p class="text-center">
-        <a href="img/gsw-history-map-2019-high.png" title="Click to open larger version of the map">
-          <img src="img/gsw-history-map-2019-high.png" class="img-responsive full-width" alt="Map of countries" />
+        <a href="img/Copy of Hi-Res World Map 2021.png" title="Click to open larger version of the map">
+          <img src="img/Copy of Hi-Res World Map 2021.png" class="img-responsive full-width" alt="Map of countries" />
         </a>
       </p>
       <p class="text-center">(Click on the map to expand it.)</p>
