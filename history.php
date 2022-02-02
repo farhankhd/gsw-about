@@ -5,7 +5,7 @@
 include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" data-image-src="img/headers/mit-header.png">
+<div class="parallax-window header" data-parallax="scroll" data-image-src="img/headers/MIT-night.png">
     <h1 class="parallax-text">
         Our history
     </h1>
