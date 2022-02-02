@@ -38,7 +38,7 @@
 */
 ?>
 
-<br><br>
+<br>
 
 
 <div class="section">
@@ -55,7 +55,6 @@
     <br />
 </div>
 
-<br />
 <div class="section">
       <div class="section-header">Local Roots, Global Reach</div>
       <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
@@ -69,7 +68,6 @@
       <br />
 </div>
 
-#<br>
 
 <div class="section container-fluid" style="margin-bottom:-5px">
     <div class="section-header">Endorsed by world-class leaders</div>
@@ -102,7 +100,6 @@
     <div class="section-header">Join our team</div>
     <div>
         For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
-        <br><br>
+        <br>
     </div>
 </div>
-<br />
