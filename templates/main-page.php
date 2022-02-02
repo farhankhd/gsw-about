@@ -1,13 +1,8 @@
 <?php
     // Increase this version every time you change the style.css file to bust cached css
-    $cssVersion = "1.0.10";
+    $cssVersion = "2.0.9";
 ?>
 
-<?php
-header("Cache-Control: no-cache, must-revalidate");
-header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
-header("Content-Type: application/xml; charset=utf-8");
-?>
 
 <div class="splash-carousel section-header-page">
     <div>
