@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-xs-12 text-center subscribe">
                 <p class="section-header section-header-footer">Stay in touch!</p>
-                <p>Don't miss any news about MIT GSW 2019. Subscribe to our newsletter. We promise we won't spam you.</p>
+                <p>Don't miss any news about MIT GSW. Subscribe to our newsletter. We promise we won't spam you.</p>
                 <form method="post" class="form-inline" action="http://gsw.mit.edu/wordpress/?na=s">
                     <div class="form-group">
                         <input class="form-control" type="email" name="ne" placeholder="Email" required>
@@ -53,7 +53,7 @@
     
         <div class="row">
             <div class="copyright col-md-12">
-                Copyright ©2011–2019 Massachusetts Institute of Technology. All rights reserved.<br>
+                Copyright ©2011–2022 Massachusetts Institute of Technology. All rights reserved.<br>
                 For more information please contact <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a>
             </div>
         </div>
