@@ -50,8 +50,8 @@
 
 <br />
 <div class="section">
-    <a id="conference-button" href="http://gsw.mit.edu/2020/">Visit the 2020 Conference Website</a>
-    <p style="text-align:center"> Check out the past year's conference!</p>
+    <a id="conference-button" href="http://gsw.mit.edu/gsw-about/history.php">EXPLORE OUR PAST CONFERENCE</a>
+    <p style="text-align:center"> Check out the history of GSW!</p>
     <br />
 </div>
 
