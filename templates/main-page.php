@@ -69,19 +69,6 @@
       <br />
 </div>
 
-
-#<div class="section">
-#    <div class="section-header">GSW 2018: Bangkok, Thailand</div>
-#    <p>GSW's 2018 conference was held in Bangkok, Thailand from March 26 to March 28. Learn more about our conference speakers, mentors, schedule, and competitions at <a href="http://gsw.mit.edu/2018/">last year's website</a>.
-#    <p class="text-center">
-#        <a href="img/gsw-recap-2018-high.png" title="Click to open larger version of the map">
-#            <img src="img/gsw-recap-2018-high.png" class="img-responsive full-width" alt="GSW in Bangkok, Thailand: Summary" />
-#        </a>
-#    </p>
-#    <p class="text-center">(Click on the image to expand it.)</p>
-#    <br />
-#</div>
-
 #<br>
 
 <div class="section container-fluid" style="margin-bottom:-5px">
