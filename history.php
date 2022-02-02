@@ -13,7 +13,7 @@ include('templates/nav-bar.php');
 <div class="section">
   <div class="row">
     <div class="col-xs-12">
-      <div class="section-header">20 Years of Tradition</div>
+      <div class="section-header">23 Years of Tradition</div>
         <p><strong>MIT Global Startup Workshop (MIT GSW) </strong> is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
 
         <p><strong>MIT GSW</strong> is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).</p>
@@ -25,8 +25,8 @@ include('templates/nav-bar.php');
       <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
 
       <p class="text-center">
-        <a href="img/gsw-history-map-2018-high.png" title="Click to open larger version of the map">
-          <img src="img/gsw-history-map-2018-high.png" class="img-responsive full-width" alt="Map of countries" />
+        <a href="img/Copy of Hi-Res World Map 2021.png" title="Click to open larger version of the map">
+          <img src="img/Copy of Hi-Res World Map 2021.png" class="img-responsive full-width" alt="Map of countries" />
         </a>
       </p>
       <p class="text-center">(Click on the map to expand it.)</p>
@@ -37,7 +37,13 @@ include('templates/nav-bar.php');
       <div class="text-center" id="past_websites">
         <div class="row">
           <div class="col-md-4 history-item">
-            <a title='MIT GSW 2017' href="http://gsw.mit.edu/2018">
+            <a title='MIT GSW 2019' href="http://gsw.mit.edu/2019">
+              <img src="img/past-websites/2019-bogata-image.jpeg" class="img-responsive full-width" />
+              <div><span class="history-place">Bangkok, Thailand</span><br><span class="history-year">GSW 2018</span></div>
+            </a>
+          </div>
+          <div class="col-md-4 history-item">
+            <a title='MIT GSW 2018' href="http://gsw.mit.edu/2018">
               <img src="img/past-websites/2018-bangkok.jpeg" class="img-responsive full-width" />
               <div><span class="history-place">Bangkok, Thailand</span><br><span class="history-year">GSW 2018</span></div>
             </a>
