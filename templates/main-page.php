@@ -5,7 +5,7 @@ header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 
     // Increase this version every time you change the style.css file to bust cached css
-    $cssVersion = "2.0.9";
+    $cssVersion = "1.0.10";
 ?>
 
 
