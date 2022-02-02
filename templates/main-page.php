@@ -50,8 +50,8 @@
 
 <br />
 <div class="section">
-    <a id="conference-button" href="http://gsw.mit.edu/gsw-about/history.php">EXPLORE OUR PAST CONFERENCE</a>
-    <p style="text-align:center"> Check out the history of GSW!</p>
+    <a id="conference-button" href="http://gsw.mit.edu/gsw-about/history.php">OUT HISTORY</a>
+    <p style="text-align:center"> Check out the GSW previous conferences!</p>
     <br />
 </div>
 
