@@ -42,7 +42,7 @@
 
 <div class="section">
     <a id="conference-button" href="http://gsw.mit.edu/2020/">Visit the 2020 Conference Website</a>
-    <p style="text-align:center"> Check out this past year's conference!</p>
+    <p style="text-align:center"> Check out the past year's conference!</p>
     <br />
 </div>
 
@@ -52,17 +52,11 @@
 
 
 <div class="section">
-    <div class="section-header">Join our organizing team</div>
+    <div class="section-header">Join our team</div>
     <div>
-        We're an MIT based graduate student group, and are in the process of building out our team for 2019-2020.<br><br>
-        <strong style="color:#dd4f33">Apply <a href="https://mit.co1.qualtrics.com/jfe/form/SV_74nXimXtDPF2mS9">here</a> to join our team. Applications are due by 11:59PM on Saturday, October 5th, 2019.<br></strong>
+        We're an MIT based graduate student group, and are in the process of building the 2022 website.<br><br>
         <br><br>
-        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a> or attend one of our info sessions:<br>
-        <ul>
-            <li>September 23rd, 11:45AM-12:45PM @ Sloan (E51-145)</li>
-            <li>September 25th, 7:30-8:30PM @ main campus (4-153)</li>
-            <li>October 1st, 7:30-8:30PM @ main campus (4-145)</li>
-        </ul>
+        For more information, contact us at <a href="mailto:gsw-contact@mit.edu">gsw-contact@mit.edu</a><br>
         <br><br>
     </div>
 </div>
@@ -72,7 +66,7 @@
     <div class="section-header">20 Years Strong</div>
     <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
     <p>MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).</p>
-    <p>Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2020.</p>
+    <p>Since 1998, our non-profit, student-run organization has held 23 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2022.</p>
 </div>
 
 <br />
