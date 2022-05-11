@@ -88,11 +88,11 @@
                         About <span class="caret"></span>
                     </a>
                     <div id="aboutMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="http://gsw.mit.edu/2019/">GSW 2019</a>
+                        <a class="dropdown-item" href="http://gsw.mit.edu/2022/">GSW 2022</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="history.php">History</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="http://gsw.mit.edu/2019/team.php">Who we are</a>
+                        <a class="dropdown-item" href="http://gsw.mit.edu/2022/team.php">Who we are</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="gsw_and_mit.php">GSW and MIT</a>
                     </div>
