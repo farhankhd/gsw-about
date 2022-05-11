@@ -40,7 +40,7 @@ include('templates/nav-bar.php');
                 catalyze transformation in society and to improve global wellbeing.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 At GSW, Legatum will have a booth with staff and materials to <strong>recruit entrepreneurs like
                     you</strong> to get involved as Legatum Fellows, speakers, and mentors. <strong><a href="speakers.php#MeganMitchell">Megan Mitchell</a>,
                     Fellowship and Student Programs Manager at Legatum</strong>, will be speaking at GSW!
@@ -66,7 +66,7 @@ include('templates/nav-bar.php');
                 innovation-driven entrepreneurial (IDE) ecosystems.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GS</div>
                 At GSW, REAP will have a booth with staff and materials to recruit <strong>startups and executives</strong> to
                 participate in <strong>two-year learning engagement</strong> with MIT. <strong><a href="speakers.php#SarahJaneMaxted">Sarah Jane Maxted</a>,
                 Director of MIT REAP</strong>, will be at GSW. <strong><a href="speakers.php#TravisHunter">Travis Hunter</a>, Program Manager of MIT REAP</strong>, will be leading several of our
@@ -95,7 +95,7 @@ include('templates/nav-bar.php');
                 program at MIT or other top universities.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 At GSW, MITx MicroMasters will provide materials about how you can take courses and <strong>earn your
                     own MIT
                     MicroMaster degree! <a href="speakers.php#TracyTan">Tracy Tan</a>, the Director of MicroMasters at MIT Open Learning</strong>, will also
@@ -123,7 +123,7 @@ include('templates/nav-bar.php');
                 need to become effective entrepreneurs.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 GSW has invited top-notch successful <strong>entrepreneurs in residence</strong> from the Martin Trust Center.
                 <strong><a href="speakers.php#NickMeyer">Nick Meyer</a>,
                 <a href="speakers.php#KitHickey">Kit Hickey</a></strong> and
@@ -156,7 +156,7 @@ include('templates/nav-bar.php');
                 $100,000.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 This year GSW has established a partnership with MIT’s $100K competition. <strong>The winner of <a href="bpc.php">GSW’s business
                     plan competition (BPC)</a> will be directly qualified to participate in the $100K Launch competition</strong>, taking
                 place on MIT campus starting in the month of April! In addition, BPC winners will mentorship and support
@@ -184,7 +184,7 @@ include('templates/nav-bar.php');
                 US-based startups with leading investors, strategic partners and market access in China.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 This year GSW has partnered with <strong>MIT-CHIEF</strong> to allow the winner of the GSW Startup Showcase the
                 opportunity to participate in their <strong>Co-founders Journey Program</strong>. The selected team(s) will travel to
                 Hong Kong and join other tech startups as they develop <strong>partnerships with local manufacturers</strong>.
@@ -210,7 +210,7 @@ include('templates/nav-bar.php');
                 rapid scale-up of prototypes.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 At GSW, the <strong>MIT Hong Kong Innovation Node</strong> will provide materials about their many programs. <strong>Brian Yang,
                 Executive Director of the MIT Hong Kong Innovation Node</strong>, will be happy to chat with you about you can
                 become involved.
@@ -234,7 +234,7 @@ include('templates/nav-bar.php');
                 The MIT Industrial Liaison Program (ILP) is dedicated to creating and strengthening mutually beneficial relationship between MIT and corporations worldwide. Established in 1948, the ILP continues to be a key player in making industrial connections for MIT.
                 <br>
                 <br>
-                <div class="mit-org-subtitle">At MIT GSW 2018</div>
+                <div class="mit-org-subtitle">At MIT GSW</div>
                 At GSW, <strong><a href="speakers.php#ToddGlickman">Todd Glickman</a>, Senior Director of the MIT ILP</strong>, will be available to connect with anyone interested in collaborating with MIT. Todd will also be a speaker in the <a href="panels_workshops.php#1">“Developing an Innovation Ecosystem” panel</a>.
             </div>
         </div>
