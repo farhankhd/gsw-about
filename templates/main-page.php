@@ -52,7 +52,7 @@
 <br />
 <div class="section">
     <a id="conference-button" href="http://gsw.mit.edu/gsw-about/history.php">OUR HISTORY</a>
-    <p style="text-align:center"> Check out the GSW previous conferences!</p>
+    <p style="text-align:center"> Check out the GSW previous conferences here!</p>
     <br />
 </div>
 
